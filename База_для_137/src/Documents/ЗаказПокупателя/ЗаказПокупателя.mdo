@@ -194,10 +194,10 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="38cfe907-f216-4545-b709-50feae9144ca">
-    <name>СогласованнаяСкидка</name>
+    <name>НТЯ_СогласованнаяСкидка</name>
     <synonym>
       <key>ru</key>
-      <value>Согласованная скидка</value>
+      <value>НТЯ согласованная скидка</value>
     </synonym>
     <type>
       <types>Number</types>
